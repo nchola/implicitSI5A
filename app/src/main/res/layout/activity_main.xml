@@ -24,7 +24,7 @@
         android:id="@+id/et_lokasi"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="Jembatan Ampera"/>
+        android:hint=Masukkan Lokasi/>
 
     <Button
         android:id="@+id/btn_buka_lokasi"
